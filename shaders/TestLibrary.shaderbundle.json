@@ -1,0 +1,26 @@
+{
+    "ColorsVertex": {
+        "type": "vertex",
+        "file": "shaders/colors.vert"
+    },
+    "ColorsFragment": {
+        "type": "fragment",
+        "file": "shaders/colors.frag"
+    },
+    "TextureVertex": {
+        "type": "vertex",
+        "file": "shaders/flutter_gpu_texture.vert"
+    },
+    "TextureFragment": {
+        "type": "fragment",
+        "file": "shaders/flutter_gpu_texture.frag"
+    },
+    "UnlitVertex": {
+        "type": "vertex",
+        "file": "shaders/flutter_gpu_unlit.vert"
+    },
+    "UnlitFragment": {
+        "type": "fragment",
+        "file": "shaders/flutter_gpu_unlit.frag"
+    }
+}
